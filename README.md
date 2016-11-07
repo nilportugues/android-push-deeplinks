@@ -15,4 +15,5 @@ This repository is a boilerplate to get push notifications and deep links right 
 
 --------
 
-https://github.com/nilportugues/android-deep-link-example/blob/master/example/src/main/java/com/tannerperrien/example/deeplink/MainActivity.java
+- http://tannerperrien.com/deep-linking-in-android/
+- https://github.com/nilportugues/android-deep-link-example/blob/master/example/src/main/java/com/tannerperrien/example/deeplink/MainActivity.java
