@@ -11,3 +11,8 @@ This repository is a boilerplate to get push notifications and deep links right 
 ### Deeplink
 
 ## Step 3: Define Push entry point
+
+
+--------
+
+https://github.com/nilportugues/android-deep-link-example/blob/master/example/src/main/java/com/tannerperrien/example/deeplink/MainActivity.java
