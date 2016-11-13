@@ -5,11 +5,12 @@ This repository is a boilerplate to get push notifications and deep links right 
 ## Step 1: Register App in Google
 
 ### Register the app in Google Play.
+
 - Then visit Google Developer Console (https://play.google.com/apps/publish/).
-- Select your App, go to "Services and API" and click. 
+- Select your App, go to **Services and API** and click. 
   - You must upload an APK or at least create the Store Entry in order to be capable of sending push notifications.
 
-- You will see a "Firebase Cloud Messaging" or FCM button. Enter the API keys there.
+- You will see a **Firebase Cloud Messaging** (FCM) button. Enter the API keys there.
 
 ## Step 2: Define in AndroidManifest the entry points
 
