@@ -26,7 +26,7 @@ This repository is a boilerplate to get push notifications and deep links right 
 
 ## DEEP LINKS
 
-### Step 2: Define in AndroidManifest the entry points
+### Step 1: Define in AndroidManifest the entry points
 
 ### Step 2: Edit Push to include Deeplink
 
