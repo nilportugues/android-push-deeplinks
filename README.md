@@ -9,8 +9,8 @@ This repository is a boilerplate to get push notifications and deep links right 
 - Visit https://console.firebase.google.com
 - Create a project or load and existing one. If it's a new project follow the steps.
 - Download the **google-services.json** file and place it in the same folder as your app's (app, not project) build.gradle file. 
-- Click the **Manage** option for your project. 
-- Visit the **Cloud Messaging** tab. API keys will be there. Copy them and proceed to next step.
+- Click the **Manage** option for your project in Firebase. 
+- Visit the **Cloud Messaging** tab in Firebase. API keys will be there. Copy them and proceed to next step.
 
 ### Step 2: Register the App in Google Play and allow Pushes.
 
