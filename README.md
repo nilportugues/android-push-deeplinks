@@ -35,6 +35,7 @@ This repository is a boilerplate to get push notifications and deep links right 
 
 
 --------
+- THIS: https://github.com/mzule/ActivityRouter
 
 - https://inducesmile.com/android/android-push-notifications-using-google-cloud-messaging-gcm-php-mysql-and-okhttp-square-open-source/
 
